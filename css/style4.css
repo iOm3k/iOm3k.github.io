@@ -15,7 +15,7 @@ body{
 #showcase{
 	background-image:url('../img/mains.jpg');
 	background-size:cover;
-	background-position:center;
+	background-position:absolute;
 	height:120vh;
 	display:flex;
 	flex-direction:column;
