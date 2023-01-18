@@ -12,7 +12,7 @@ body{
 }
 
 #showcase{
-	background-image:url('../img/maintenance.jpg');
+	background-image:url('/img/maintenance.jpg');
 	background-size:cover;
 	background-position:center;
 	height:120vh;
