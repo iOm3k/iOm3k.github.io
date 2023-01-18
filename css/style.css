@@ -1,0 +1,57 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	margin: 0;
+	font-family: 'Amatic SC', cursive;	
+	font-size:30px;
+	color:#fff;
+	line-height:2.2;
+}
+
+#showcase{
+	background-image:url('../img/blue.jpg');
+	background-size:cover;
+	background-position:center;
+	height:120vh;
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+	text-align:center;
+	padding:0 20px;
+}
+
+#showcase h1{
+	font-size:80px;
+	line-height:2.1;
+}
+
+#showcase p{
+	font-size:40px;
+}
+
+#showcase .mydropdown{
+  background-color:#5D3FD3;
+  border: 0.5rem outset #FFFDD0;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+
+#showcase .mydropdown:hover{
+	background:#4169e1;
+	color:#fff;
+}
+
+#section-a{
+	padding:20px;
+	background:#FF8300;
+	color:#fff;
+	text-align:center;
+}
